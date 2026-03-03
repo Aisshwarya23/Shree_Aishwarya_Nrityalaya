@@ -180,9 +180,11 @@ Scan the QR code with **Expo Go** on your phone.
 
 **Aisshwarya23** — Built for Shree Aishwarya Nrityalaya dance academy to streamline student fee tracking and attendance management.
 
-[Uploading image.png…]()
 <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/06431e66-99ec-4b65-951d-36c8915e4a9c" />
+
 <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/b60d0dd8-547a-4fc2-b752-1f936f212ddd" />
+
 <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/0117ff8c-4825-4905-b8c8-c24aea1f9168" />
+
 <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/0416a6b1-8356-4753-b57f-e3e6baac1a76" />
 
